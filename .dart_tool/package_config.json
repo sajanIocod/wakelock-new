@@ -293,10 +293,10 @@
       "name": "wakelock",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     }
   ],
-  "generated": "2024-02-26T04:41:38.574791Z",
+  "generated": "2024-02-26T05:44:20.079251Z",
   "generator": "pub",
   "generatorVersion": "3.3.0"
 }
